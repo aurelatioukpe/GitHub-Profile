@@ -21,5 +21,4 @@
 - ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 # Thanks for your visit !
-
 ![masked_law](https://github.com/aurelatioukpe/GitHub-Profile/assets/146479577/8fe022f4-9321-4c54-9536-28bd44dba3d9)
