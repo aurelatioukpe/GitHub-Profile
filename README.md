@@ -1,4 +1,4 @@
-![room](https://github.com/aurelatioukpe/GitHub-Profile/assets/146479577/df1ad04c-8a18-4b2b-ac68-0d8b4e8ca89a)
+-![room](https://github.com/aurelatioukpe/GitHub-Profile/assets/146479577/df1ad04c-8a18-4b2b-ac68-0d8b4e8ca89a)
 ### Hi ! Welcome to my GitHub profile ! 👋
 
 # Who I Am?
@@ -19,6 +19,7 @@
 - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 - ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 - ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-
+### Connect with me
+- ![https://twitter.com/a_certain_dev](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 # Thanks for your visit !
 ![masked_law](https://github.com/aurelatioukpe/GitHub-Profile/assets/146479577/8fe022f4-9321-4c54-9536-28bd44dba3d9)
