@@ -20,6 +20,8 @@
 - ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 - ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ### Connect with me
-- ![https://twitter.com/a_certain_dev](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+- Twitter : a_certain_dev
+- Instragram : kidtraffy
+- Discord : traffykidd
 # Thanks for your visit !
 ![masked_law](https://github.com/aurelatioukpe/GitHub-Profile/assets/146479577/8fe022f4-9321-4c54-9536-28bd44dba3d9)
