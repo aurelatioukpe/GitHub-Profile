@@ -1,4 +1,4 @@
--![room](https://github.com/aurelatioukpe/GitHub-Profile/assets/146479577/df1ad04c-8a18-4b2b-ac68-0d8b4e8ca89a)
+![room](https://github.com/aurelatioukpe/aurelatioukpe/assets/146479577/fd7dce83-edab-472b-8b4f-6755c747e32a)
 
 ### Hi ! Welcome to my GitHub profile ! 👋
 
