@@ -26,5 +26,3 @@
 - Discord : traffykidd
 # Thanks for your visit !
 ![masked_law](https://github.com/aurelatioukpe/GitHub-Profile/assets/146479577/8fe022f4-9321-4c54-9536-28bd44dba3d9)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aurelatioukpe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
