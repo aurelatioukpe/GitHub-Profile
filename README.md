@@ -21,7 +21,7 @@
 - ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 - ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ### Connect with me
-- ![Twitter(https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/a_certain_dev)
-- ![Instagram(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_certain_dev/)
+- ![Twitter][(https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/a_certain_dev)
+- ![Instagram][(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_certain_dev/)
 # Thanks for your visit !
 ![masked_law](https://github.com/aurelatioukpe/GitHub-Profile/assets/146479577/8fe022f4-9321-4c54-9536-28bd44dba3d9)
