@@ -2,7 +2,7 @@
 
 ### Hi ! Welcome to my GitHub profile ! 👋
 
-# Who I Am?
+# Who Am I?
 
 - My name is Aurel, but you can also call me by my nickname "Traffy". 
 - In short, I'm just a guy who really loves programming but also computers in general (maybe also a lazy guy who stays in his room to geek out, it all depends on your point of view). 
