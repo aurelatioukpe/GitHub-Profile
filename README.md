@@ -4,7 +4,7 @@
 
 # Who Am I?
 
-- My name is Aurel and I'm 19 years old.
+- My name is Aurel and I'm 20 years old.
 - In short, I'm just a guy who really loves programming but also computers in general (maybe also a lazy guy who stays in his room to geek out, it all depends on your point of view). 
 - My ultimate goal is to combine these two loves of my life : programming and video games, to become a gamedev.
 
@@ -22,6 +22,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### IDE
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
